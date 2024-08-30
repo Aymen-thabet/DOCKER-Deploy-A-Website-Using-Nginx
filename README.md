@@ -1,6 +1,6 @@
 This is the overall plan , I will Clone a website repo from github into my machine , then create an images from it using DockerFile , then running a container and testing it from my localmachine
 Then I will create a docker images from the website and push it to the DockerHub 
-Then I will pull the image from my EC2 CLI , and running a container On it finally accessing the website from the EC2 public Ip again !
+Then I will pull the image from my EC2 CLI , and running a container on it and finally accessing the website from the EC2 public Ip again !
 
 ![Capture d'écran 2024-08-30 132454](https://github.com/user-attachments/assets/074a8180-02e1-4c5e-be29-675269d4257a)
 
@@ -36,7 +36,8 @@ Now , we will commit the container to create an image from It and push it to the
 
 First thing to do is connect to Docker :
 
-![Uploading Capture d'écran 2024-08-30 143844.png…]()
+![Capture d'écran 2024-08-30 143844](https://github.com/user-attachments/assets/d0ffc0b0-09de-4795-98e6-887228618c75)
+
 
 *commit* 
 
