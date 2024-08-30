@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7739ec93-b401-4545-8104-c638833adfee)![Capture d'écran 2024-08-30 141851](https://github.com/user-attachments/assets/e7a2748c-5f24-41df-9455-9b43c1ba922b)This is the overall plan , I will Clone a website repo from github into my machine , then create an images from it using DockerFile , then running a container and testing it from my localmachine
+This is the overall plan , I will Clone a website repo from github into my machine , then create an images from it using DockerFile , then running a container and testing it from my localmachine
 Then I will create a docker images from the website and push it to the DockerHub 
 Then I will pull the image from my EC2 CLI , and running a container On it finally accessing the website from the EC2 public Ip again !
 
